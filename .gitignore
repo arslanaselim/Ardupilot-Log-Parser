@@ -1,0 +1,12 @@
+# Derleme klasörleri
+build/
+cmake-build-debug/
+.idea/
+*.o
+*.out
+
+# Oluşturulan Loglar (İsteğe bağlı, yüklemek istersen sil)
+*.tlog
+
+# Sistem dosyaları
+.DS_Store
